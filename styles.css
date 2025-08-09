@@ -1,0 +1,19 @@
+body {
+	font-family: Arial, sans-serif;
+	min-height: 100vh;
+	background: linear-gradient(#ddd, #3d2b2b);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	color: rgb(98, 84, 84);
+	text-align: center;
+    text-sty
+	padding: 50px;
+}
+
+.example-image {
+	max-width: 300px;
+	margin-bottom: 20px;
+	border: 2px solid rgb(238, 238, 238);
+	border-radius: 7px;
+}
